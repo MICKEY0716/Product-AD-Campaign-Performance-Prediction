@@ -97,4 +97,4 @@ Build a predictive and analytical framework to assess product ad campaign perfor
 ```bash
 pip install -r requirements.txt
 ```
-© 2024 Rachit Patwa. All rights reserved.
+© 2025 Rachit Patwa. All rights reserved.
